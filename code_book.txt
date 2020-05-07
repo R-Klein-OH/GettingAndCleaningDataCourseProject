@@ -1,0 +1,15 @@
+Variable Name		Description
+
+subject_id:		The identifier for the participant in the "Human Activity Recognition Using Smartphones Data Set study"
+
+activity_label:		The label for the Activity of Daily Living (ADL) the participant performed while wearing the smartphone around his or her waist
+
+measure:		The name portion of the original feature name from features.txt that contained either the mean or standard deviation summary function
+
+summary_function:	The summary function portion of the original feature name from features.txt that contained either the mean or standard deviation 					summary function
+
+coordinate:		The coordinate portion of the original feature name from features.txt that contained either the mean or standard deviation summary function
+
+avg:			The average value for each unique combination of subject_id, activity_label, measure, summary_function, and coordinate
+	
+Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones	
